@@ -1,27 +1,35 @@
 .Education {
-
+  font-style: normal;
+  font-family: sans-serif;
+  text-align: left;
 }
 
 .Experience {
-
+font-family: sans-serif;
+text-align: center;
 }
 
 .Skills {
-
+  font-family: sans-serif;
+  text-align: right;
 }
 
 .Miscellaneous {
-
+  font-family: sans-serif;
+  font-size: 10px;
 }
 
 .first {
-  
+  font-style: italic;
+  color: red;
 }
 
 .second {
-
+  font-style: italic;
+  color: crimson;
 }
 
 .third {
-
+  font-style: italic;
+  color: orange;
 }
